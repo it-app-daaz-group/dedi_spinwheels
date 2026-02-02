@@ -1,6 +1,6 @@
 # Dedi Spin Wheels 🎡
 
-Aplikasi Spin Wheel 3D sederhana untuk menentukan siapa yang akan mengajak makan siang ke KFC hari ini!
+Aplikasi Spin Wheel 3D sederhana untuk menentukan siapa yang akan mengajak makan siang ke Pizza hari ini!
 Dibuat menggunakan Three.js dan HTML5 Canvas.
 
 ## Fitur
